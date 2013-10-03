@@ -1,0 +1,46 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=v1-no-socket
+*Date=03:21:03
+*CreatedBy=Fritzing 0.7.12b.02.13.6882
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;49.0985;-37.4167;0;Bottom;Via28
+2;4.7k;1206 [SMD];50.0485;-8.1168;180;Top;R11
+3;;[THT];4.84859;-3.86649;180;Bottom;S1
+4;27k;1206 [SMD];46.4985;-33.9667;90;Top;R10
+5;;;26.5205;-32.1797;0;Bottom;Via29
+6;;;14.6985;-13.5167;0;Bottom;Via9
+7;;[THT];40.8486;-3.86649;180;Bottom;S4
+8;10k;1206 [SMD];17.7898;-12.0495;-90;Bottom;R3
+9;;THT;7.45118;-33.7596;90;Bottom;R9
+10;;;4.0271;-22.954;0;Bottom;RL1
+11;;;47.9382;-43.444;0;Bottom;TXT1
+12;;;7.04166;-28.1953;0;Bottom;Via30
+13;;TO92 [THT];50.329;-2.40568;180;Bottom;Q2
+14;;;46.4985;-19.1167;0;Bottom;Via19
+15;1k;1206 [SMD];10.7896;-12.0495;-90;Bottom;R2
+16;;;32.5985;-28.7167;0;Bottom;Via24
+17;1k;1206 [SMD];50.5985;-11.9667;-90;Bottom;R8
+18;10k;1206 [SMD];45.7897;-11.9494;90;Bottom;R7
+19;10k;1206 [SMD];3.7896;-11.9494;90;Bottom;R1
+20;;;30.0266;-24.6984;180;Bottom;Pi1
+21;;;18.8346;-35.2549;0;Bottom;IMG1
+22;;[THT];28.8485;-3.86649;180;Bottom;S3
+23;;;6.19852;-13.5167;0;Bottom;Via8
+24;;;34.9985;-28.8167;0;Bottom;Via27
+25;;[THT];16.8487;-3.86649;180;Bottom;S2
+26;;;13.4985;-30.2167;0;Bottom;Via18
+27;10k;1206 [SMD];31.7897;-11.9494;90;Bottom;R5
+28;1k;1206 [SMD];24.7898;-12.0496;-90;Bottom;R4
+29;;SOT-23 [SMD];43.0985;-36.4667;-90;Top;Q1
+30;;;33.3825;-26.4608;0;Bottom;LCD1
+31;1k;1206 [SMD];38.7897;-11.9493;-90;Bottom;R6
