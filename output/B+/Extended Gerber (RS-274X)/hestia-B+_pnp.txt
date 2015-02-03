@@ -1,0 +1,54 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=hestia-B+
+*Date=03:01:59
+*CreatedBy=Fritzing 0.9.1b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;34.5495;-25.9801;0;Bottom;LCD
+2;10k;1206 [SMD];8.14545;-3.686;-90;Bottom;R1-1
+3;;THT;9.8918;-47.6896;0;Bottom;R5
+4;;TO92 [THT];52.7417;-4.75163;-90;Bottom;18B20
+5;1k;1206 [SMD];7.99546;-8.83598;0;Bottom;R2-1
+6;;[THT];18.2955;-3.68596;180;Bottom;S2 (-)
+7;130;1206 [SMD];48.5455;-3.98588;90;Top;R6
+8;;;29.2346;-47.4661;0;Bottom;IMG1
+9;;THT;54.1455;-33.9258;0;Bottom;RELAY
+10;;;35.4259;-17.1632;0;Bottom;Via33
+11;1k;1206 [SMD];37.9955;-8.93589;0;Bottom;R2-4
+12;;SOT-23 [SMD];18.6455;-33.5857;90;Top;Q1
+13;27k;1206 [SMD];13.5955;-32.736;0;Top;R4
+14;;0805;3.74548;-38.8359;180;Top;C1
+15;1k;1206 [SMD];18.1955;-8.9359;180;Bottom;R2-2
+16;;;31.6455;-13.8359;0;Bottom;Via7
+17;;;35.5455;-35.7358;0;Bottom;Via24
+18;;[THT];8.26661;-3.67129;180;Bottom;S1 (H)
+19;;led-1206;1.44546;-3.83599;90;Top;H
+20;;THT;42.3155;-36.8358;-90;Bottom;RESET
+21;4.7k;1206 [SMD];33.3955;-29.5359;180;Top;R3
+22;;[THT];28.2956;-3.68568;180;Bottom;S3 (+)
+23;;;29.2899;-50.8927;0;Bottom;TXT1
+24;10k;1206 [SMD];18.2455;-3.68599;90;Bottom;R1-2
+25;;[THT];38.2955;-3.68596;180;Bottom;S4 (W)
+26;130;1206 [SMD];1.44546;-15.3858;90;Top;R5
+27;;;31.3067;-17.2196;0;Bottom;Via32
+28;;;18.7455;-31.4358;0;Bottom;Via18
+29;;led-1206;45.0455;-3.93587;-90;Top;W
+30;;;22.2851;-25.4656;0;Bottom;Pi
+31;;;26.0455;-17.7359;0;Bottom;Via15
+32;1k;1206 [SMD];28.1955;-8.93589;180;Bottom;R2-3
+33;;;42.5455;-15.3359;0;Bottom;Via22
+34;;[THT];51.4954;-47.8862;0;Bottom;RESET
+35;;;38.2455;-35.7358;0;Bottom;Via31
+36;10k;1206 [SMD];28.3455;-3.68599;90;Bottom;R1-3
+37;;;46.8455;-26.736;0;Bottom;Via9
+38;10k;1206 [SMD];38.2455;-3.68599;90;Bottom;R1-4
+39;;;30.4455;-35.7005;0;Bottom;Via3
